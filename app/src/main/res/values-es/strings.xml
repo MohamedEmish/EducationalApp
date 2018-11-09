@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Aplicación educativa "</string>
+    <string name="Question1">"Q1.¿Cuál es el continente más grande del mundo? "</string>
+    <string name="Answer1Hint">Ingrese su respuesta</string>
+    <string name="Question2">"Q2.En qué continente Francia se encuentra? "</string>
+    <string name="Answer2Hint">"Elija la respuesta correcta "</string>
+    <string name="Answer2_1">Asia</string>
+    <string name="Answer2_2">África</string>
+    <string name="Answer2_3">Europa</string>
+    <string name="Question3">"Q3.En qué continente Turquía se encuentra? "</string>
+    <string name="Answer3Hint">Verificar la respuesta correcta \"Puede ser de elección múltiple\"</string>
+    <string name="Question4">"Q4.En qué continente China se encuentra? "</string>
+    <string name="Question5">"Q5.¿Cuál es el continente más pequeño del mundo? "</string>
+    <string name="Submit">Enviar</string>
+</resources>

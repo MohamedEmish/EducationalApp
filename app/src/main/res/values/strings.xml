@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Educational App</string>
+
+    <string name="Question1">Q1.What is the largest Continent in the World?</string>
+    <string name="Answer1Hint">Enter Your Answer</string>
+
+    <string name="Question2">Q2.In which Continent France is located?</string>
+    <string name="Answer2Hint">Choose Correct Answer</string>
+    <string name="Answer2_1">Asia</string>
+    <string name="Answer2_2">Africa</string>
+    <string name="Answer2_3">Europe</string>
+
+    <string name="Question3">Q3.In which Continent Turkey is located?</string>
+    <string name="Answer3Hint">Check Correct Answer \n Can be multi-choice</string>
+
+
+    <string name="Question4">Q4.In which Continent China is located?</string>
+
+
+    <string name="Question5">Q5.What is the smallest Continent in the World?</string>
+
+    <string name="Submit">Submit</string>
+
+    <string name="Erorr1">Enter Q1 Answer ,Please</string>
+    <string name="Erorr2">Enter Q2 Answer ,Please</string>
+    <string name="Erorr3">Enter Q3 Answer ,Please</string>
+    <string name="Erorr4">Enter Q4 Answer ,Please</string>
+    <string name="Erorr5">Enter Q5 Answer ,Please</string>
+
+    <string name="All_True">Good Job ,Very Good</string>
+    <string name="All_False">Please Check Your Answer</string>
+
+    <string name="Answer1_false">check question1 Answer again</string>
+    <string name="Answer2_false">check question2 Answer again</string>
+    <string name="Answer3_false">check question3 Answer again</string>
+    <string name="Answer4_false">check question4 Answer again</string>
+    <string name="Answer5_false">check question5 Answer again</string>
+
+
+
+
+</resources>
